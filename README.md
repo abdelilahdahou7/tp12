@@ -18,7 +18,7 @@ Le service propose les endpoints suivants :
 ### Vérification du WSDL (Vidéo)
 Voici l'enregistrement de la navigation sur le WSDL dans le navigateur, confirmant la présence du service et des opérations :
 
-![Navigation WSDL](C:/Users/ULTRAPC/.gemini/antigravity/brain/651c1bb2-4b2b-4fa3-85af-a1e1795e8d2e/navigate_endpoints_1767466162527.webp)
+![Navigation WSDL](wsdl_navigation.webp)
 
 *(Note : Si l'image ci-dessus est une vidéo WebP, elle peut nécessiter un navigateur compatible pour l'animation.)*
 
